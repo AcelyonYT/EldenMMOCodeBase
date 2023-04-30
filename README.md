@@ -1,2 +1,1 @@
-# EldenMMOCodeBase
-The code base I use, this should be more user-friendly
+This is the codebase of the my elden mmo bot
